@@ -1,5 +1,6 @@
 meu nome é Eduardo
 idade 31
+*
 Sou meio doido
 tenho 3 cachorros muitos loucos
 456
